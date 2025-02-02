@@ -1,0 +1,21 @@
+- Ir a: Admin. de dispositivos / adaptadores de red / seleccionar el adaptador que usas.
+
+ARP Offload - Descarga de ARP						Desactivado
+ipv4 checksum offload 							Desactivado
+large send offload ipv4/6 - descarga de gran envio ipv4/6		Desactivado
+Energy-Efficient Ethernet						Desactivado
+Gigabit Lite								Desactivado
+Flow Control - Control de flujo						Desactivado
+Green Ethernet - Ethernet Ecológico					Desactivado
+Interupt Moderation - Moderación de interrupción			Desactivado
+Maximum number of RSS Queues - Número máximo de colas de RSS		Desactivado
+Wake on magic packet							Desactivado
+Wake on magic packet when system is in the SO...			Desactivado
+Wake on pattern match							Desactivado
+(Si tienes:) UDP Cheksum offload de IPV4/6				Desactivado
+WOL & SHutdow link speed - nVelocidad de enlace WOL y apagado		Desactivado
+
+Desactivar también el ahorro de energía
+
+
+- Ir a: Red / Propiedades del adaptador / desactivar algunas cosas.

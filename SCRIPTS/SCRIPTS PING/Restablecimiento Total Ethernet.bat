@@ -1,0 +1,1 @@
+powershell "Restart-NetAdapter -Name "Ethernet*""
